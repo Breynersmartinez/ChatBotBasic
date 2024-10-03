@@ -1,71 +1,60 @@
 <div id="top"></div>
 
 <div align="center">
-    <h2>JavaScript Chatbot</h2>
-    <p>A Simple & Powerful chatbot in JavaScript.</p>
+    <h2>Chatbot en JavaScript</h2>
+    <p>Un chatbot simple y poderoso en JavaScript.</p>
 </div>
 
-## About 
+## Acerca de
 
-This is a simple and Powerful chatbot in nodejs. It also linked to wikipedia's API and very easy to customize with JSON. 
+Este es un chatbot simple y poderoso en Node.js. También está vinculado a la API de Wikipedia y es muy fácil de personalizar con JSON.
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- COMENZANDO -->
+## Comenzando
 
-To get a local copy up and running follow these simple steps.
+Para obtener una copia local en funcionamiento, sigue estos sencillos pasos.
 
-### Prerequisites
+### Requisitos previos
 
 * NodeJs
 * npm
 
-### Installation
+### Instalación
 
-1. Clone the repo
+1. Clona el repositorio
    ```sh
    git clone https://github.com/devXprite/javascript-chatbot
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Rename `.env.example` to `.env`
-   ```sh 
-   BOT_NAME="Bot Name"
-   DEVELOPER_NAME="Your Name"
-   DEVELOPER_EMAIL="Your Email"
-   BUG_REPORT_URL="Your URL"
-   ```
-4. Start Server
-   ```sh
-   npm start
-   ```
 
-<!-- Scripts EXAMPLES -->
-### Available Scripts
+Instala los paquetes de NPM
+2.npm install
 
-*In the project directory, you can run*:
+3.Renombra .env.example a .env
 
-- `npm run dev`
+BOT_NAME="Nombre del Bot"
+DEVELOPER_NAME="Tu Nombre"
+DEVELOPER_EMAIL="Tu Correo Electrónico"
+BUG_REPORT_URL="Tu URL"
 
-   Runs the app in the development mode.  
-   Open http://localhost:3000 to view it in your browser.
+4.Inicia el servidor
+npm start
 
-- `npm run lint`
+<!-- Ejemplos de Scripts -->
+Scripts Disponibles
+En el directorio del proyecto, puedes ejecutar:
 
-   Check for errors in your code.
+npm run dev
 
-- `npm run lint:fix`
+Ejecuta la aplicación en modo de desarrollo.
+Abre http://localhost:3000 para verla en tu navegador.
 
-   Fix auto fixable problems.
+npm run lint
 
-<!-- Deploy  -->
-## Deploy
+Verifica si hay errores en tu código.
 
-Click this button to configure your Project and deploy it to Vercel.  
-  
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FdevXprite%2Fjavascript-chatbot)
+npm run lint:fix
 
-## Credit
+Corrige los problemas solucionables automáticamente.
 
-Some chat intents were taken from **Dialogflow's [Small talk](https://dialogflow.cloud.google.com/#/agent/small-talk-bfie/intents)**.
+<!-- Despliegue -->
+Despliegue
+Haz clic en este botón para configurar tu proyecto y desplegarlo en Vercel.
