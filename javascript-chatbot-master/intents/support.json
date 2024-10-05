@@ -1,24 +1,24 @@
 [
   {
     "questions": [
-      "bring me up your developers email",
-      "how to email your developers",
-      "could you please give me the email address of your developers",
-      "show me the email of your developers",
-      "get me your developers email",
-      "I want to contact your developers show me their email",
-      "I need to contact your developers give me their email address",
-      "what's your developers email",
-      "how to email your creators",
-      "give me the email address of your developers",
-      "I would like to write an email to your developers",
-      "where to get your developers email",
-      "can I send an email to your developers",
-      "your creators email",
-      "I want to contact your developers by email",
-      "your developers email"
+   "pásame el correo electrónico de tus desarrolladores",
+"cómo enviar un correo electrónico a tus desarrolladores",
+"podrías darme la dirección de correo electrónico de tus desarrolladores",
+"muéstrame el correo electrónico de tus desarrolladores",
+"consígueme el correo electrónico de tus desarrolladores",
+"quiero ponerme en contacto con tus desarrolladores, muéstrame su correo electrónico",
+"necesito ponerme en contacto con tus desarrolladores, dame su dirección de correo electrónico",
+"¿cuál es el correo electrónico de tus desarrolladores?",
+"cómo enviar un correo electrónico a tus creadores",
+"dame la dirección de correo electrónico de tus desarrolladores",
+"me gustaría escribir un correo electrónico a tus desarrolladores",
+"dónde obtener el correo electrónico de tus desarrolladores",
+"¿puedo enviar un correo electrónico a tus desarrolladores?",
+"el correo electrónico de tus creadores",
+"quiero ponerme en contacto con tus desarrolladores por correo electrónico",
+"el correo electrónico de tus desarrolladores"
     ],
-    "answers": ["My developer email is [DEVELOPER_EMAIL]."]
+    "answers": ["El correo electronico de mi desarrollador es breynersmartinezmunoz@gmail.com"]
   },
   {
     "questions": [
@@ -111,23 +111,23 @@
 "he encontrado errores",
 "necesito reportar un error que he encontrado en ti",
 "enviar problema a los desarrolladores",
-      "I need to report a bug that I've found",
-      "report bug to developers",
-      "send report about your problems",
-      "I'm having problem with this app",
-      "I need to report bug",
-      "you have bugs everywhere",
-      "tell your developers that you have a bug",
-      "you have problems in understanding",
-      "send bug report to your creators",
-      "you are full of problems",
-      "there are bugs",
-      "I want to show errors to your creators",
-      "I want to report error",
-      "I've found bugs",
-      "I need to report a bug that I've found in you",
-      "send problem to developers"
+     "Necesito informar un error que he encontrado",
+"informar de un error a los desarrolladores",
+"enviar informe sobre tus problemas",
+"Tengo un problema con esta aplicación",
+"Necesito informar de un error",
+"tienes errores por todas partes",
+"dile a tus desarrolladores que tienes un error",
+"tienes problemas para entender",
+"envía un informe de error a tus creadores",
+"estás lleno de problemas",
+"hay errores",
+"quiero mostrar errores a tus creadores",
+"quiero informar de un error",
+"he encontrado errores",
+"necesito informar de un error que he encontrado en ti",
+"enviar un problema a los desarrolladores"
     ],
-    "answers": ["You can report your bug at [BUG_URL]."]
+    "answers": ["Puede informar su error en breynersmartinezmunoz@gmail.com."]
   }
 ]

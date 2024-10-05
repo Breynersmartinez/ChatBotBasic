@@ -1,6 +1,6 @@
 [
-    "search for {topic}",
-    "tell me about {topic}",
-    "what is {topic}",
-    "who is {topic}"
+    "buscar{topic}",
+    "Cuentame sobre {topic}",
+    "que es {topic}",
+    "quien es {topic}"
 ]

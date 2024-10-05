@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8" />
-  <title>JavaScript ChatBot</title>
+  <title>ChatBot Juridico</title>
   <meta name="title" content="JavaScript ChatBot">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -21,12 +21,38 @@
 
   <link rel="stylesheet" href="./src/styles/normalize.min.css" />
   <link rel="stylesheet" href="./src/styles/compiled.min.css" />
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
   <header>
+<!--Menu-->
+<div class="dropdown">
+  <div class="dropdown-btn" onclick="toggleDropdown()">☰</div>
+  <div class="dropdown-content" id="dropdownContent">
+    <!-- <type="icon" class="iconos">
+      <img src="Imagenes/ajsutes_azl.png   " alt=" Google Icon ">  --> 
+    <a href="#">⚙️Ajustes </a>
+    <a href="#" onclick="crearNuevaConversacion()">📝 Crear Nueva Conversación</a>
+    <a href="#" onclick="mostrarHistorialConversaciones()">🕒 Historial de Conversaciones</a>
+    <a href="#" id="Perfil">👤 Perfil</a>
+    <a href="https://breynersmartinez.github.io/login_chatbot.github.io/">🔒 Cerrar Sesión</a>
+ 
+      <label for="themeSwitch">Tema:</label>
+      <label class="theme-switch">
+          <input type="checkbox" id="themeSwitch" onchange="toggleTheme()">
+          <span class="slider round"></span>
+          <span class="sun-icon">🌤️</span>
+          <span class="moon-icon">🌙</span>
+      </label> 
+  </div> 
+  </div>
+
+
+
+
     <div>
-      <h2>JavaScript ChatBot</h2>
+      <h2>IA JURIDICA 🤖</h2>
       <p class="typing">bot is typing. . .</p>
     </div>
     <div id="toogle-chat">
@@ -39,13 +65,13 @@
 
   <div class="main-background">
     <div>
-      <h3>JavaScript ChatBot</h3>
-      <p>A Simple & Powerful chatbot in JavaScript.</p>
+      <h3>IA JURIDICA 🤖</h3>
+      <p>Te puedo asesorar juridicamente con casos no complejos.</p>
     </div>
   </div>
 
   <section class="all-questions">
-    <h2>Suggested Chats</h2>
+    <h2>Chats sugeridos</h2>
     <div class="questions container"></div>
   </section>
 
@@ -64,6 +90,7 @@
   <script src="./src/javascript/jquery.min.js"></script>
   <script src="./src/javascript/typed.min.js"></script>
   <script src="./src/javascript/app.js"></script>
+  <script src="script.js"></script>
 </body>
 
 </html>

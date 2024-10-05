@@ -75,7 +75,7 @@ const sendAllQuestions = (req, res) => {
     allQustions.forEach((qus) => {
       if (qus.length >= 15) {
         if (
-          /^(can|are|may|how|what|when|who|do|where|your|from|is|will|why)/gi.test(
+          /^(Puedes|son|puede|cómo|que|cuando|quien es|hacer|dónde|su|de|es|voluntad|por qué)/gi.test(
             qus,
           )
         ) {
@@ -87,7 +87,7 @@ const sendAllQuestions = (req, res) => {
     });
     res.json(_.shuffle(humanQuestions));
   } catch (error) {
-    res.status(500).send({ error: "Internal Server Error!", code: 500 });
+    res.status(500).send({ error: "¡Error Interno del Servidor!", code: 500 });
     console.log(error);
   }
 };
@@ -170,13 +170,13 @@ const sendAnswer = async (req, res) => {
         const wikipediaResponseText = wikipediaResponse.extract;
 
         if (wikipediaResponseText == undefined || wikipediaResponseText == "") {
-          responseText = `Sorry, I can't find any article related to "${topic}".`;
+          responseText = `Lo siento, no puedo encontrar ningún artículo relacionado con "${topic}".`;
           isFallback = true;
         } else {
           responseText = wikipediaResponseText;
         }
       } catch (error) {
-        responseText = `Sorry, we can't find any article related to "${topic}".`;
+        responseText = `Lo sentimos, no podemos encontrar ningún artículo relacionado con "${topic}".`;
         console.log(error);
       }
     } else if (action == "support") {
@@ -217,7 +217,7 @@ const sendAnswer = async (req, res) => {
           && humanInput.length <= 20
           && !/(\s{1,})/gim.test(humanInput)
         ) {
-          responseText = "You are probably hitting random keys :D";
+          responseText = "Probablemente estés presionando teclas al azar :D";
         } else {
           responseText = _.sample(fallbackChat);
         }
@@ -248,7 +248,7 @@ const sendAnswer = async (req, res) => {
     if (error.message.includes("URI")) {
       res.status(500).send({ error: error.message, code: 500 });
     } else {
-      res.status(500).send({ error: "Internal Server Error!", code: 500 });
+      res.status(500).send({ error: "¡Error Interno del Servidor!", code: 500 });
     }
   }
 };
