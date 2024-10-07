@@ -1,6 +1,1387 @@
 [
   {
     "questions": [
+"bien",
+"bien.",
+"vien.",
+"biem.",
+"wien.",
+"rien.",
+"tien.",
+"yien.",
+"bien gracias ",
+"bien",
+"todo bien.",
+"todo bien melo.",
+"todo  melo.",
+"bien",
+    "bien.",
+    "vien.",
+    "biem.",
+    "wien.",
+    "rien.",
+    "tien.",
+    "yien.",
+    "bien gracias",
+    "todo bien.",
+    "todo bien melo.",
+    "todo melo.",
+    "Todo bien",
+    "biem gracias",
+    "todo weno.",
+    "todo chido.",
+    "todo ok.",
+    "bien, y tú?",
+    "está bien.",
+    "todo tranquilo.",
+    "súper bien.",
+    "todo excelente.",
+    "bien, todo en orden.",
+    "bien",
+    "bien.",
+    "vien.",
+    "biem.",
+    "wien.",
+    "rien.",
+    "tien.",
+    "yien.",
+    "bien gracias",
+    "todo bien.",
+    "todo bien melo.",
+    "todo melo.",
+    "Todo bien",
+    "biem gracias",
+    "todo weno.",
+    "todo chido.",
+    "todo ok.",
+    "bien, y tú?",
+    "está bien.",
+    "todo tranquilo.",
+    "súper bien.",
+    "todo excelente.",
+    "bien, todo en orden.",
+    "todo perfecto.",
+    "todo de maravilla.",
+    "todo en su lugar.",
+    "todo chévere.",
+    "todo cool.",
+    "bien, gracias por preguntar.",
+    "bien, gracias a Dios.",
+    "todo genial.",
+    "todo fabuloso.",
+    "todo bien, gracias.",
+    "mejor imposible.",
+    "todo lindo.",
+    "en la cima.",
+    "todo al 100.",
+    "todo normal.",
+    "todo en calma.",
+    "bien, y tú, cómo estás?",
+    "está todo bien.",
+    "más o menos.",
+    "todo regular.",
+    "bien, sin problemas.",
+    "todo bajo control.",
+    "todo awesome.",
+    "todo divino.",
+    "todo tranquilo, gracias.",
+    "todo en orden, ¿y tú?",
+    "me encuentro bien.",
+    "en el camino correcto.",
+    "todo correcto.",
+    "todo fluyendo.",
+    "todo de lujo.",
+    "todo bello.",
+    "estoy bien, gracias.",
+    "todo tranquilo, todo bien.",
+    "en buenas condiciones.",
+    "bien, sin quejas.",
+    "todo bien, todo en su lugar.",
+    "todo fresco.",
+    "me siento bien.",
+    "todo balanceado.",
+    "todo en armonía.",
+    "en buena vibra.",
+    "todo espectacular.",
+    "todo fabulante.",
+    "todo bien, gracias por preguntar.",
+    "en paz.",
+    "bien, contento/a.",
+    "todo perfecto, gracias.",
+    "todo bien, todo genial.",
+    "todo en su mejor momento.",
+    "bien",
+    "bien",
+    "vien",
+    "biem",
+    "wien",
+    "rien",
+    "tien",
+    "yien",
+    "bien gracias",
+    "todo bien",
+    "todo bien melo",
+    "todo melo",
+    "Todo bien",
+    "biem gracias",
+    "todo weno",
+    "todo chido",
+    "todo ok",
+    "bien y tú",
+    "está bien",
+    "todo tranquilo",
+    "súper bien",
+    "todo excelente",
+    "bien todo en orden",
+    "todo perfecto",
+    "todo de maravilla",
+    "todo en su lugar",
+    "todo chévere",
+    "todo cool",
+    "bien gracias por preguntar",
+    "bien gracias a Dios",
+    "todo genial",
+    "todo fabuloso",
+    "todo bien gracias",
+    "mejor imposible",
+    "todo lindo",
+    "en la cima",
+    "todo al 100",
+    "todo normal",
+    "todo en calma",
+    "bien y tú cómo estás",
+    "está todo bien",
+    "más o menos",
+    "todo regular",
+    "bien sin problemas",
+    "todo bajo control",
+    "todo awesome",
+    "todo divino",
+    "todo tranquilo gracias",
+    "todo en orden y tú",
+    "me encuentro bien",
+    "en el camino correcto",
+    "todo correcto",
+    "todo fluyendo",
+    "todo de lujo",
+    "todo bello",
+    "estoy bien gracias",
+    "todo tranquilo todo bien",
+    "en buenas condiciones",
+    "bien sin quejas",
+    "todo bien todo en su lugar",
+    "todo fresco",
+    "me siento bien",
+    "todo balanceado",
+    "todo en armonía",
+    "en buena vibra",
+    "todo espectacular",
+    "todo fabulante",
+    "todo bien gracias por preguntar",
+    "en paz",
+    "bien contento/a",
+    "todo perfecto gracias",
+    "todo bien todo genial",
+    "todo en su mejor momento",
+"Todo bien"
+
+      ],
+    "answers": [
+      " Me alegra mucho, me parece Excelente, ¿en qué  caso juridico no complejo, te puedo ayudar el dia de hoy? "
+        ]
+  },
+  {
+    "questions": [
+"mal",
+"mal.",
+"nal.",
+"mall.",
+"maal.",
+"mmal.",
+"mmaal.",
+"mmaall.",
+"mmmal  ",
+"bien mal",
+"todo bien mal.",
+"todo bien mall.",
+"todo  mal.",
+"mal",
+   "mal",
+    "mal.",
+    "nal.",
+    "mall.",
+    "maal.",
+    "mmal.",
+    "mmaal.",
+    "mmaall.",
+    "mmmal",
+    "bien mal",
+    "todo bien mal.",
+    "todo bien mall.",
+    "todo mal.",
+    "no tan bien",
+    "regular",
+    "medio mal",
+    "así así",
+    "malito",
+    "bastante mal",
+    "poco bien",
+    "no es el mejor día",
+    "todo en modo mal",
+    "casi bien, pero no",
+    "un día complicado",
+    "mal, pero aquí seguimos",
+    "más o menos",
+    "mal, pero con esperanza",
+    "en un estado... no ideal",
+    "no muy bien",
+    "fatal",
+    "un desastre",
+    "horrible",
+    "no estoy en mi mejor momento",
+    "todo malito",
+    "no es mi día",
+    "desanimado",
+    "sin ganas",
+    "a ratos bien, a ratos mal",
+    "un poco perdido",
+    "no hay ganas",
+    "todo muy pesado",
+    "demasiado complicado",
+    "un día gris",
+    "decepcionante",
+    "sintiéndome meh",
+    "con una nube encima",
+    "nublado",
+    "en modo letargo",
+    "un poco chafado",
+    "más mal que bien",
+    "en el limbo",
+    "en un bache",
+    "sin brillo",
+    "sin entusiasmo",
+    "mal, pero sobreviviendo",
+    "no en la mejor forma",
+    "en modo autopiloto",
+    "con el pie izquierdo",
+    "con la moral baja",
+    "no muy animado",
+    "sintiéndome cansado",
+    "en un día bajón",
+    "con el ánimo por los suelos",
+    "sin ganas de nada",
+    "en una espiral negativa",
+    "más bien regular",
+    "con un sabor agridulce",
+    "un día para olvidar"
+      ],
+    "answers": [
+      " Espero que tu dia mejore, sigue a delante que todo va ah mejorar, echale ganas ¿en qué  caso juridico no complejo, te puedo ayudar el dia de hoy?"
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+        "Hola, ¿cómo estás?",
+        "¡Hey! ¿Qué tal?",
+        "Buenas tardes, ¿cómo te encuentras?",
+        "Holaaa, ¿todo bien?",
+        "Ola, ¿ke ase?",
+        "¿Qué onda?",
+        "¡Saludos!",
+        "¿Cómo va todo?",
+        "¡Hola! ¿Qué cuentas?",
+        "Holisss, ¿cómo andas?"
+    ],
+    "answers": [
+        "Estoy muy bien, gracias. ¿Y tú?",
+        "Todo bien, gracias. ¿Y tú?",
+        "Muy bien, gracias por preguntar. ¿Y tú?",
+        "¡Genial! ¿Y tú?",
+        "Bien, gracias. ¿Y tú?",
+        "Todo tranquilo, gracias. ¿Y tú?",
+        "Estoy bien, gracias. ¿Y tú?",
+        "Todo va bien, gracias. ¿Y tú?",
+        "Estoy muy bien, ¿y tú?",
+        "Bien, gracias. ¿Y tú?"
+    ]
+},
+
+
+{
+    "questions": [
+        "¡Hola, amigo! ¿Cómo estás?",
+        "¡Qué pasa, bro!",
+        "¡Buenas! ¿Cómo va todo?",
+        "Holaaa, ¿qué tal?",
+        "Oli, ¿cómo andas?",
+        "¿Qué hay de nuevo?",
+        "¡Hey! ¿Qué onda?",
+        "¡Saludos cordiales!",
+        "¿Cómo te va?",
+        "¡Hola, hola! ¿Qué cuentas?"
+    ],
+    "answers": [
+        "¡Hola, amigo! Estoy bien, ¿y tú?",
+        "¡Qué pasa, bro! Todo bien, ¿y tú?",
+        "¡Buenas! Todo va bien, gracias. ¿Y tú?",
+        "Holaaa, todo bien. ¿Y tú?",
+        "Oli, ando bien. ¿Y tú?",
+        "¡Qué hay de nuevo! Todo tranquilo, ¿y tú?",
+        "¡Hey! Todo bien, ¿y tú?",
+        "¡Saludos cordiales! Estoy bien, gracias. ¿Y tú?",
+        "Me va bien, gracias. ¿Y tú?",
+        "¡Hola, hola! No mucho, ¿y tú?"
+    ]
+},
+
+{
+    "questions": [
+        "¡Hola, amigo! ¿Cómo estás?",
+        "¡Qué pasa, bro!",
+        "¡Buenas! ¿Cómo va todo?",
+        "Holaaa, ¿qué tal?",
+        "Oli, ¿cómo andas?",
+        "¿Qué hay de nuevo?",
+        "¡Hey! ¿Qué onda?",
+        "¡Saludos cordiales!",
+        "¿Cómo te va?",
+        "¡Hola, hola! ¿Qué cuentas?"
+    ],
+    "answers": [
+        "¡Hola, amigo! Estoy bien, ¿y tú?",
+        "¡Qué pasa, bro! Todo bien, ¿y tú?",
+        "¡Buenas! Todo va bien, gracias. ¿Y tú?",
+        "Holaaa, todo bien. ¿Y tú?",
+        "Oli, ando bien. ¿Y tú?",
+        "¡Qué hay de nuevo! Todo tranquilo, ¿y tú?",
+        "¡Hey! Todo bien, ¿y tú?",
+        "¡Saludos cordiales! Estoy bien, gracias. ¿Y tú?",
+        "Me va bien, gracias. ¿Y tú?",
+        "¡Hola, hola! No mucho, ¿y tú?"
+    ]
+},
+
+{
+    "questions": [
+        "Hola, ¿cómo estás?",
+        "¡Hey! ¿Qué tal?",
+        "Buenas tardes, ¿cómo te encuentras?",
+        "Holaaa, ¿todo bien?",
+        "Ola, ¿ke ase?",
+        "¿Qué onda?",
+        "¡Saludos!",
+        "¿Cómo va todo?",
+        "¡Hola! ¿Qué cuentas?",
+        "Holisss, ¿cómo andas?"
+    ],
+    "answers": [
+        "¡Hola! Estoy bien, ¿y tú?",
+        "¡Hey! Todo bien, ¿y tú?",
+        "Buenas tardes, me encuentro bien, gracias. ¿Y tú?",
+        "Holaaa, sí, todo bien. ¿Y tú?",
+        "Ola, aki ando. ¿Y tú?",
+        "¡Qué onda! Todo tranquilo, ¿y tú?",
+        "¡Saludos! ¿Cómo estás?",
+        "Todo va bien, gracias. ¿Y tú?",
+        "¡Hola! No mucho, ¿y tú?",
+        "Holisss, ando bien. ¿Y tú?"
+    ]
+},
+{
+    "questions": [
+      "Holaa",
+      "Holaas",
+      "Hola!",
+      "Holaa amigo!",
+      "Holi",
+      "Holi!",
+      "Hola, q tal?",
+      "Hoola"
+    ],
+    "answers": [
+      "¡Hola! ¿Cómo puedo ayudarte?",
+      "¡Hola! ¿Todo bien?",
+      "¡Hola! ¿Qué tal tu día?",
+      "¡Qué tal! ¿En qué puedo ayudarte hoy?",
+      "¡Holi! ¿En qué te puedo ayudar?",
+      "¡Holi! Aquí para ayudarte.",
+      "¡Hola! ¿Cómo va tu día?",
+      "¡Hola! ¿Qué tal?"
+    ]
+  },
+  {
+    "questions": [
+      "q hubo",
+      "q mas",
+      "que mas",
+      "que hubo",
+      "q tal",
+      "q cuenta",
+      "q pasa"
+    ],
+    "answers": [
+      "¡Todo tranquilo! ¿Y tú?",
+      "¡Aquí, bien! ¿Y tú?",
+      "¡Todo en orden! ¿Y tú?",
+      "¡Nada especial! ¿Qué hay de ti?",
+      "¡Todo bien! ¿Y tú?",
+      "¡No mucho! ¿Qué hay de ti?",
+      "¡Todo normal! ¿Y tú?"
+    ]
+  },
+  {
+    "questions": [
+      "Holiis",
+      "Hey",
+      "Holi, amigo",
+      "Holaaa",
+      "Holaaa, ¿que haces?",
+      "Holaa, como va?",
+      "Holi, q hay?"
+    ],
+    "answers": [
+      "¡Hey! ¿Qué necesitas?",
+      "¡Holaaa! ¿Todo bien?",
+      "¡Hola! ¿En qué puedo ayudarte?",
+      "¡Holi! Solo aquí para ayudarte.",
+      "¡Hola! ¿Cómo va todo?",
+      "¡Ando bien! ¿Y tú?",
+      "¡Hola! ¿Todo normal?"
+    ]
+  },
+  {
+    "questions": [
+      "Bunas",
+      "Buna tarde",
+      "Buna noches",
+      "Bunas a todos!",
+      "Holaa, buen dia",
+      "Que tal mi gente",
+      "Q hay nuevo?"
+    ],
+    "answers": [
+      "¡Buenas! ¿Cómo puedo ayudarte?",
+      "¡Buenas tardes! ¿En qué puedo asistirte?",
+      "¡Buenas noches! ¿Cómo estás?",
+      "¡Buenas a todos! ¿En qué puedo ayudar?",
+      "¡Hola! ¿Cómo va tu día?",
+      "¡Hola, mi gente! ¿Todo bien?",
+      "¡Todo tranquilo! ¿Y tú?"
+    ]
+  },
+  {
+    "questions": [
+      "que bien verte",
+      "q cuentas",
+      "q tal amigo",
+      "ey, que tal!",
+      "holaaa que tal",
+      "que hay de nuevo",
+      "q hay, brother"
+    ],
+    "answers": [
+      "¡Igualmente! ¿En qué puedo ayudarte?",
+      "¡No mucho! ¿Y tú?",
+      "¡Aquí, tranquilo! ¿Y tú?",
+      "¡Nada nuevo! ¿Qué hay de ti?",
+      "¡Todo bien! ¿Y tú?",
+      "¡Todo normal! ¿Y tú?",
+      "¡Todo bien, brother! ¿Y tú?"
+    ]
+  },
+  {
+    "questions": [
+      "ey que tal",
+      "Hola q gusto",
+      "Saludo",
+      "que bueno verte",
+      "Hola como va",
+      "Como vas",
+      "Hola que tal"
+    ],
+    "answers": [
+      "¡Ey! ¿Cómo estás?",
+      "¡Igualmente! ¿En qué puedo ayudarte?",
+      "¡Saludos! ¿Cómo te puedo ayudar?",
+      "¡Qué bueno verte! ¿En qué puedo ayudarte?",
+      "¡Todo bien! ¿Y tú?",
+      "¡Ando bien, gracias! ¿Y tú?",
+      "¡Hola! ¿Qué tal?"
+    ]
+  },
+  {
+    "questions": [
+      "Q tal amigo",
+      "holis",
+      "Hola, soy nuevo",
+      "q se dice",
+      "Holaa que hubo",
+      "q hay parcero",
+      "q tal mi hermano"
+    ],
+    "answers": [
+      "¡Hola! Bienvenido. ¿Cómo puedo ayudarte?",
+      "¡Todo bien! ¿En qué puedo ayudarte?",
+      "¡Hola! ¿Cómo va todo?",
+      "¡Nada especial! ¿Y tú?",
+      "¡Aquí, bien! ¿Y tú?",
+      "¡Todo bien, parcero! ¿Y tú?",
+      "¡Hola, hermano! ¿En qué te puedo ayudar?"
+    ]
+  },
+  {
+    "questions": [
+      "Hola, como estas",
+      "Holi que haces",
+      "Hola como andas",
+      "Holis amigo",
+      "Que tal bro",
+      "Hola buen dia",
+      "Q pasa socio"
+    ],
+    "answers": [
+      "¡Estoy bien, gracias! ¿Y tú?",
+      "¡Holi! Solo aquí para ayudarte.",
+      "¡Ando bien! ¿Y tú?",
+      "¡Todo bien, amigo! ¿En qué puedo ayudarte?",
+      "¡Todo normal! ¿Y tú?",
+      "¡Hola! ¿Cómo va tu día?",
+      "¡Nada nuevo! ¿Qué hay de ti?"
+    ]
+  },
+  {
+    "questions": [
+      "Hola que hubo!",
+      "Que tal gente",
+      "Que se cuenta",
+      "Holi como va la vida",
+      "Que tal pana",
+      "Hola que tal amigo mio",
+      "Como va todo?"
+    ],
+    "answers": [
+      "¡Todo tranquilo! ¿Y tú?",
+      "¡Hola! ¿En qué puedo asistirte?",
+      "¡No mucho! ¿Qué hay de ti?",
+      "¡Aquí, bien! ¿Y tú?",
+      "¡Todo bien, pana! ¿Y tú?",
+      "¡Hola, amigo mío! ¿Todo en orden?",
+      "¡Todo normal! ¿Y tú?"
+    ]
+  },
+  {
+    "questions": [
+      "Que hay amigo?",
+      "Holi como va?",
+      "Que tal amigo",
+      "Que hubo hermano",
+      "Holi que haces hoy",
+      "Hola que tal parcero",
+      "Q hay de nuevo?"
+    ],
+    "answers": [
+      "¡Aquí, tranquilo! ¿Y tú?",
+      "¡Todo tranquilo! ¿Y tú?",
+      "¡Todo bien! ¿Y tú?",
+      "¡Todo normal! ¿Y tú?",
+      "¡Holi! Solo aquí para ayudarte.",
+      "¡Todo bien, parcero! ¿En qué te puedo ayudar?",
+      "¡Todo en orden! ¿Y tú?"
+    ]
+  },
+  {
+    "questions": [
+        "como esta",
+        "como vai",
+      "Holaaa, q hubo!",
+      "Holi, soy nuevo",
+      "Holaa, que tal!",
+      "Holaa, que se dice?",
+      "Hola amigo, que hay?",
+      "Holi, q tal?",
+      "Q tal che?"
+    ],
+    "answers": [
+      "¡Hola! ¿Cómo puedo ayudarte?",
+      "¡Bienvenido! ¿En qué puedo ayudarte?",
+      "¡Todo bien! ¿Y tú?",
+      "¡Nada especial! ¿Y tú?",
+      "¡Aquí, bien! ¿Y tú?",
+      "¡Todo normal! ¿Y tú?",
+      "¡Hola! ¿En qué te puedo ayudar?"
+    ]
+  },
+    {
+      "questions": [
+        "Hola",
+        "¡Hola!",
+        "¿Hola?",
+        "¿Qué tal?",
+        "¿Cómo estás?",
+        "¿Cómo va?",
+        "¿Qué hay?"
+      ],
+      "answers": [
+        "¡Hola! ¿Cómo puedo ayudarte?",
+        "¡Hola! ¿Todo bien?",
+        "¡Hola! ¿Qué tal tu día?",
+        "¡Qué tal! ¿En qué puedo ayudarte hoy?",
+        "¡Estoy bien, gracias! ¿Y tú?",
+        "¡Va todo bien! ¿Y tú?",
+        "¡Nada nuevo! ¿Qué hay de ti?"
+      ]
+    },
+    {
+      "questions": [
+        "¿Qué hubo?",
+        "¿Qué más?",
+        "¿Qué cuenta?",
+        "¿Qué pasa?",
+        "¿Qué tal, parce?",
+        "¿Qué tal, amigo?",
+        "¿Qué tal, bro?"
+      ],
+      "answers": [
+        "¡Todo tranquilo! ¿Y tú?",
+        "¡Aquí, bien! ¿Y tú?",
+        "¡Todo en orden! ¿Y tú?",
+        "¡Nada especial! ¿Qué hay de ti?",
+        "¡Todo bien, parcero! ¿Y vos?",
+        "¡Todo bien, amigo! ¿En qué te puedo ayudar?",
+        "¡Todo normal, bro! ¿Y tú?"
+      ]
+    },
+    {
+      "questions": [
+        "Hey",
+        "Holaaa",
+        "Hola, amigo",
+        "Holi",
+        "Holi, ¿qué haces?",
+        "Buena, ¿qué hay?",
+        "¿Qué tal, pana?"
+      ],
+      "answers": [
+        "¡Hey! ¿Qué necesitas?",
+        "¡Holaaa! ¿Todo bien?",
+        "¡Hola! ¿En qué puedo ayudarte?",
+        "¡Holi! Solo aquí para ayudarte.",
+        "¡Hola! ¿Cómo va todo?",
+        "¡Buena! Todo normal, ¿y tú?",
+        "¡Qué tal, pana! ¿Todo bien?"
+      ]
+    },
+    {
+      "questions": [
+        "Buenas",
+        "Buenas tardes",
+        "Buenas noches",
+        "¡Buenas a todos!",
+        "¡Hola, buen día!",
+        "¿Qué tal, mi gente?",
+        "¿Qué hay de nuevo?"
+      ],
+      "answers": [
+        "¡Buenas! ¿Cómo puedo ayudarte?",
+        "¡Buenas tardes! ¿En qué puedo asistirte?",
+        "¡Buenas noches! ¿Cómo estás?",
+        "¡Buenas a todos! ¿En qué puedo ayudar?",
+        "¡Hola! ¿Cómo va tu día?",
+        "¡Hola, mi gente! ¿Todo bien?",
+        "¡Todo tranquilo! ¿Y tú?"
+      ]
+    },
+    {
+      "questions": [
+        "¡Qué bien verte!",
+        "¿Qué me cuentas?",
+        "¡Hey, qué hay!",
+        "¡Qué pasó!",
+        "Hola, ¿cómo va todo?",
+        "Hola, ¿cómo andas?",
+        "¿Qué tal el día?"
+      ],
+      "answers": [
+        "¡Igualmente! ¿En qué puedo ayudarte?",
+        "¡No mucho! ¿Y tú?",
+        "¡Aquí, tranquilo! ¿Y tú?",
+        "¡Nada nuevo! ¿Qué hay de ti?",
+        "¡Todo bien! ¿Y tú?",
+        "¡Ando bien, gracias! ¿Y tú?",
+        "¡Va todo bien! ¿Y tú?"
+      ]
+    },
+    {
+      "questions": [
+        "¡Ey, qué tal!",
+        "¡Hola, qué gusto!",
+        "Saludos",
+        "¡Qué bueno verte!",
+        "Hola, ¿todo bien?",
+        "¿Cómo te va, man?",
+        "¡Saludos, parcero!"
+      ],
+      "answers": [
+        "¡Ey! ¿Cómo estás?",
+        "¡Igualmente! ¿En qué puedo ayudarte?",
+        "¡Saludos! ¿Cómo te puedo ayudar?",
+        "¡Qué bueno verte! ¿En qué puedo ayudarte?",
+        "¡Todo bien! ¿Y tú?",
+        "¡Voy bien, gracias! ¿Y tú?",
+        "¡Saludos, parcero! ¿En qué te puedo ayudar?"
+      ]
+    },
+    {
+      "questions": [
+        "¿Qué hay de nuevo?",
+        "¡Hola, cómo va?",
+        "¡Buena, mi gente!",
+        "¿Qué se cuenta?",
+        "¡Holi, amigo!",
+        "¡Epa, qué hubo!",
+        "¿Qué tal, che?"
+      ],
+      "answers": [
+        "¡Todo en orden! ¿Y tú?",
+        "¡Todo bien! ¿Cómo va todo?",
+        "¡Todo tranquilo! ¿Y tú?",
+        "¡No mucho! ¿Qué hay de ti?",
+        "¡Hola! ¿En qué puedo asistirte?",
+        "¡Aquí, bien! ¿Y tú?",
+        "¡Todo normal! ¿Y tú?"
+      ]
+    },
+    {
+      "questions": [
+        "Hola, soy nuevo aquí",
+        "¿Qué tal, colega?",
+        "¿Qué hay, joven?",
+        "¡Hola, qué tal, bro!",
+        "Holi, ¿qué se dice?",
+        "¡Hola, carnal!",
+        "¡Qué hubo, hermano!"
+      ],
+      "answers": [
+        "¡Hola! Bienvenido. ¿Cómo puedo ayudarte?",
+        "¡Todo bien, colega! ¿En qué puedo asistirte?",
+        "¡Hola! ¿En qué puedo ayudarte hoy?",
+        "¡Hola, bro! ¿Qué necesitas?",
+        "¡Holi! Aquí para ayudarte.",
+        "¡Hola, carnal! ¿Todo bien?",
+        "¡Qué hubo, hermano! ¿En qué puedo ayudarte?"
+      ]
+    },
+    {
+      "questions": [
+        "¿Cómo estás, amigo?",
+        "Holi, ¿qué haces?",
+        "Hola, ¿cómo andas?",
+        "¿Cómo va, brother?",
+        "¿Qué tal, mi hermano?",
+        "¡Hola, buen día!",
+        "¿Qué pasa, socio?"
+      ],
+      "answers": [
+        "¡Estoy bien, gracias! ¿Y tú?",
+        "¡Holi! Solo aquí para ayudarte.",
+        "¡Ando bien! ¿Y tú?",
+        "¡Todo bien, brother! ¿Y tú?",
+        "¡Todo normal! ¿Y tú?",
+        "¡Hola! ¿Cómo va tu día?",
+        "¡Nada nuevo! ¿Qué hay de ti?"
+      ]
+    },
+    {
+      "questions": [
+        "¿Qué cuentas, amigo?",
+        "Holi, ¿todo tranquilo?",
+        "¿Qué tal, gente?",
+        "¡Buenas, gente!",
+        "¿Qué tal el día, amigo?",
+        "¡Hola, qué tal, parcero!",
+        "¿Qué tal, bro?"
+      ],
+      "answers": [
+        "¡Aquí, tranquilo! ¿Y tú?",
+        "¡Todo tranquilo! ¿Y tú?",
+        "¡Todo bien, gente! ¿En qué puedo ayudar?",
+        "¡Hola! ¿Cómo están?",
+        "¡Va todo bien! ¿Y tú?",
+        "¡Qué tal, parcero! ¿En qué te puedo ayudar?",
+        "¡Todo bien, bro! ¿En qué te ayudo?"
+      ]
+    },
+    {
+      "questions": [
+        "¡Hola, qué hubo!",
+        "¡Qué tal, mi gente!",
+        "Hola, ¿qué se dice?",
+        "Holi, ¿cómo va la vida?",
+        "¿Qué tal, pana?",
+        "¿Qué tal, amigo mío?",
+        "Hola, ¿cómo va todo?"
+      ],
+      "answers": [
+        "¡Todo tranquilo! ¿Y tú?",
+        "¡Hola! ¿En qué puedo asistirte?",
+        "¡Nada especial! ¿Y tú?",
+        "¡Aquí, bien! ¿Y tú?",
+        "¡Todo bien, pana! ¿Y tú?",
+        "¡Hola, amigo mío! ¿Todo en orden?",
+        "¡Todo normal! ¿Y tú?"
+      ]
+    },
+  
+  
+
+{
+"questions": [
+  "Hola",
+  "¿Hola?",
+  "Buen día"
+],
+"answers": [
+  "¡Hola! ¿Cómo puedo ayudarte?",
+  "¡Hola! ¿Qué tal tu día?",
+  "¡Buen día! ¿En qué puedo asistirte?"
+]
+},
+{
+"questions": [
+  "Hey",
+  "Holaaa",
+  "Buenas tardes"
+],
+"answers": [
+  "¡Hey! ¿Qué necesitas?",
+  "¡Holaaa! ¿Todo bien?",
+  "¡Buenas tardes! ¿Cómo estás?"
+]
+},
+{
+"questions": [
+  "¿Qué tal?",
+  "¿Qué hay?",
+  "¡Buenas!"
+],
+"answers": [
+  "¡Qué tal! ¿En qué puedo ayudarte hoy?",
+  "¡Hola! ¿Qué hay de nuevo?",
+  "¡Buenas! Estoy aquí para ayudarte."
+]
+},
+{
+"questions": [
+  "Todo bien?",
+  "K tal",
+  "¿Cómo va todo?"
+],
+"answers": [
+  "¡Todo bien! ¿Y tú?",
+  "¡Todo en orden! ¿Y tú?",
+  "¡Va todo bien! ¿Y tú?"
+]
+},
+{
+"questions": [
+  "¿Cómo estás?",
+  "¿Cómo te va?",
+  "Holi"
+],
+"answers": [
+  "¡Estoy bien, gracias! ¿Y tú?",
+  "¡Voy bien! ¿Y tú?",
+  "¡Holi! ¿En qué puedo ayudarte?"
+]
+},
+{
+"questions": [
+  "Buenas noches",
+  "Buenas noches a todos",
+  "K ase"
+],
+"answers": [
+  "¡Buenas noches! ¿Cómo puedo ayudarte?",
+  "¡Buenas noches a todos! ¿Cómo están?",
+  "¡No mucho! ¿Y tú?"
+]
+},
+{
+"questions": [
+  "¿Qué hay de nuevo?",
+  "Hola, soy nuevo aquí",
+  "Buena, ¿qué hay?"
+],
+"answers": [
+  "¡Todo en orden! ¿Y tú?",
+  "¡Hola! Bienvenido. ¿Cómo puedo ayudarte?",
+  "¡Buena! Todo normal, ¿y tú?"
+]
+},
+{
+"questions": [
+  "Holi, ¿qué haces?",
+  "Bueenas, ¿cómo van?",
+  "Que pasa?"
+],
+"answers": [
+  "¡Holi! Solo aquí para ayudarte.",
+  "¡Todo bien! ¿Y tú?",
+  "¡Nada nuevo! ¿Qué hay de ti?"
+]
+},
+{
+"questions": [
+  "Hola, ¿cómo estás?",
+  "Saluditos",
+  "Hola, buen día"
+],
+"answers": [
+  "¡Hola! Estoy aquí para ayudarte.",
+  "¡Saluditos! ¿En qué puedo asistirte?",
+  "¡Hola! ¿Cómo va tu día?"
+]
+},
+{
+"questions": [
+  "¿Qué tal, todo bien?",
+  "Holaaa, ¿cómo estás?",
+  "buenas, ¿cómo va?"
+],
+"answers": [
+  "¡Todo bien, gracias! ¿Y tú?",
+  "¡Holaaa! Todo bien, ¿y tú?",
+  "¡Todo normal! ¿Y tú?"
+]
+},
+{
+"questions": [
+  "¿Cómo has estado?",
+  "¿Qué cuentas?",
+  "¿Qué hay de nuevo?"
+],
+"answers": [
+  "¡He estado bien, gracias! ¿Y tú?",
+  "¡Nada especial! ¿Y tú?",
+  "¡Todo tranquilo! ¿Y tú?"
+]
+},
+
+{
+"questions": [
+  "hola",
+  "holaa",
+  "buenos dias",
+  "buenas",
+  "buenas tardes",
+  "buenas noches"
+],
+"answers": [
+  "¡Hola! ¿Cómo estás?",
+  "¡Hola! ¿Cómo estás?",
+  "¡Buenos días! ¿En qué te puedo ayudar?",
+  "¡Hola! ¿En qué te ayudo?",
+  "¡Buenas tardes! ¿En qué puedo ayudarte?",
+  "¡Buenas noches! ¿Necesitas algo?"
+]
+},
+
+
+{
+"questions": [
+  "si?",
+  "no?",
+  "gracias",
+  "muchas gracias",
+  "ok",
+  "perfecto",
+  "entendido",
+  "vale",
+  "dime"
+],
+"answers": [
+  "¡Sí!",
+  "¡No!",
+  "¡De nada!",
+  "¡De nada!",
+  "¡Ok!",
+  "¡Perfecto!",
+  "¡Entendido!",
+  "¡Vale!",
+  "Dime, te escucho."
+]
+},
+  {
+    
+    "questions": [
       
        "como va tu dia",
        "como van las cosas",
@@ -469,28 +1850,327 @@
     "questions": [
       "¿Qué es el derecho?",
       "¿Qué es el derecho?",
-      "¿Cómo puedes ayudarme en un caso legal?",
-      "¿Qué debo hacer si me demandan?",
-      "¿Cómo puedo presentar una tutela en Colombia?",
-      "¿Qué son los derechos fundamentales?",
-      "¿Cuál es el proceso para divorciarse en Colombia?",
-      "¿Cómo puedo demandar a alguien por incumplimiento de contrato?",
-      "¿Qué debo hacer si me acusan de un delito?",
-      "¿Cómo se interpone un recurso de apelación?"
+      "¿Qué significa derecho?",
+      "¿El derecho qué es?",
+      "Me podrías explicar qué es el derecho?",
+      "¿Qué es eso que llaman derecho?",
+      "¿Derecho? ¿Qué es eso?",
+      "¿Qué es el derecho en pocas palabras?",
+      "¿A qué se refiere el término derecho?",
+      "¿Qué entendemos por derecho?",
+      "¿Por qué es importante el derecho?",
+      "¿Qué se considera derecho en la sociedad?",
+      "¿Qué rol tiene el derecho en nuestras vidas?",
+      "Derecho, ¿qué es exactamente?",
+      "¿Podrías decirme qué es el derecho? No entiendo.",
+      "Oye, ¿me explicas qué es el derecho? No lo tengo claro.",
+      "¿Qué es el derecho?",
+      "¿Qué significa derecho?",
+      "¿El derecho qué es?",
+      "Me podrías explicar qué es el derecho?",
+      "¿Qué es eso que llaman derecho?",
+      "¿Derecho? ¿Qué es eso?",
+      "¿Qué es el derecho en pocas palabras?",
+      "¿A qué se refiere el término derecho?",
+      "¿Qué entendemos por derecho?",
+      "¿Por qué es importante el derecho?",
+      "¿Qué se considera derecho en la sociedad?",
+      "¿Qué rol tiene el derecho en nuestras vidas?",
+      "Derecho, ¿qué es exactamente?",
+      "¿Podrías decirme qué es el derecho? No entiendo.",
+      "Oye, ¿me explicas qué es el derecho? No lo tengo claro.",
+      "¿Derecho? No sé bien a qué se refiere. ¿Me ayudas?",
+      "¿Qué tipo de cosas abarca el derecho?",
+      "¿El derecho se refiere solo a leyes?",
+      "¿Puede ser que el derecho tenga que ver con justicia?",
+      "¿Cuáles son los conceptos básicos del derecho?",
+      "¿Hay diferentes tipos de derecho? ¿Cuáles son?",
+      "¿El derecho es lo mismo que la ley?",
+      "¿De qué trata el derecho en general?",
+      "¿El derecho tiene que ver con normas y reglas?",
+      "¿Qué áreas cubre el derecho en la vida diaria?",
+      "¿Se puede vivir sin derecho? ¿Por qué?",
+      "¿El derecho solo es para abogados o para todos?",
+      "¿Qué es el derecho?",
+      "¿Que es el derech?",
+      "¿Qué significa derecho?",
+      "¿Derecho, qué es eso?",
+      "Me podrías explikar qué es el derecho?",
+      "¿Qué es eso que llaman derejto?",
+      "¿Qué es el derecho en pocas palabras?",
+      "¿A qué se refiere el térmno derecho?",
+      "¿Qué entendemos por dercho?",
+      "¿Por qué es importate el derecho?",
+      "¿Qué se considera derecho en la sosiedad?",
+      "¿Qué rol tiene el dereco en nuestras vidas?",
+      "Derecho, ¿qué es exáctamente?",
+      "¿Podrías decirme qué es el dercho? No entiendo.",
+      "Oye, ¿me explicas qué es el derech? No lo tengo claro.",
+      "¿Derecho? No se bien a qué se refiere. ¿Me ayudas?",
+      "¿Qué tipo de cosas abarqa el derecho?",
+      "¿El derecho se refiere solo a ley?",
+      "¿Puede ser que el dercho tenga que ver con justicia?",
+      "¿Cuáles son los conceptos básicos del derech?",
+      "¿El derecho es lo mismo que la ley?",
+      "¿De qué trata el derecho en genral?",
+      "¿El derecho tiene que ver con normasy reglas?",
+      "¿Qué áreas cubre el derecho en la vida diara?",
+      "¿Se puede vivir sin derech? ¿Por qué?",
+      "¿El derecho solo es para abogados o para todos?",
+      "¿Qué es el derecho?",
+    "Que es el derech",
+    "¿Qué significa derecho?",
+    "Derecho, qué es eso",
+    "Me podrías explikar qué es el derecho?",
+    "Qué es eso que llaman derejto",
+    "¿Qué es el derecho en pocas palabras?",
+    "A qué se refiere el térmno derecho",
+    "¿Qué entendemos por dercho?",
+    "Por qué es importate el derecho",
+    "Qué se considera derecho en la sosiedad",
+    "¿Qué rol tiene el dereco en nuestras vidas?",
+    "Derecho, qué es exáctamente",
+    "¿Podrías decirme qué es el dercho? No entiendo",
+    "Oye, me explicas qué es el derech No lo tengo claro",
+    "Derecho No se bien a qué se refiere ¿Me ayudas?",
+    "¿Qué tipo de cosas abarqa el derecho?",
+    "El derecho se refiere solo a ley",
+    "Puede ser que el dercho tenga que ver con justicia",
+    "¿Cuáles son los conceptos básicos del derech?",
+    "El derecho es lo mismo que la ley",
+    "De qué trata el derecho en genral",
+    "¿El derecho tiene que ver con normasy reglas?",
+    "Qué áreas cubre el derecho en la vida diara",
+    "Se puede vivir sin derech ¿Por qué?",
+    "El derecho solo es para abogados o para todos",
+    "¿Qué es el derecho?",
+    "Que es el derech",
+    "¿Qué significa derecho?",
+    "Derecho, qué es eso",
+    "Me podrías explikar qué es el derecho?",
+    "Qué es eso que llaman derejto",
+    "¿Qué es el derecho en pocas palabras?",
+    "A qué se refiere el térmno derecho",
+    "¿Qué entendemos por dercho?",
+    "Por qué es importate el derecho",
+    "Qué se considera derecho en la sosiedad",
+    "¿Qué rol tiene el dereco en nuestras vidas?",
+    "Derecho, qué es exáctamente",
+    "¿Podrías decirme qué es el dercho? No entiendo",
+    "Oye, me explicas qué es el derech No lo tengo claro",
+    "Derecho No se bien a qué se refiere ¿Me ayudas?",
+    "¿Qué tipo de cosas abarqa el derecho?",
+    "El derecho se refiere solo a ley",
+    "Puede ser que el dercho tenga que ver con justicia",
+    "¿Cuáles son los conceptos básicos del derech?",
+    "El derecho es lo mismo que la ley",
+    "De qué trata el derecho en genral",
+    "¿El derecho tiene que ver con normasy reglas?",
+    "Qué áreas cubre el derecho en la vida diara",
+    "Se puede vivir sin derech ¿Por qué?",
+    "El derecho solo es para abogados o para todos",
+    "¿Qué opinas sobre el derecho y su funsión en la sociedad?",
+    "¿Qué funciones tiene el derecho en la comunidad?",
+    "Que es el derecho positivo",
+    "¿Derecho natural, qué significa?",
+    "¿Cuándo surgió el concepto de derecho?",
+    "Derecho, que se relaciona con la justicia",
+    "¿Es el derecho igual en todos los países?",
+    "¿Derecho civil, qué es?",
+    "Qué es el derecho penal?",
+    "¿Qué diferencia hay entre derecho y moral?",
+    "Derecho, ¿para qué sirve?",
+    "¿Cuáles son las ramas del derecho?",
+    "Derecho, ¿es solo para los que estudian leyes?",
+    "¿Qué es la jurisprudencia?",
+    "¿Cómo se relaciona el derecho con la ética?",
+    "Derecho internacional, qué es eso",
+    
+      "¿Qué es el derecho?"
+      
     ],
     "answers": [
-      "El derecho es el conjunto de normas y principios que regulan la convivencia social. En otras palabras, es el sistema que nos ayuda a resolver conflictos y a vivir en armonía, como si fuera el reglamento de un juego, pero para la vida.",
-      "Puedo orientarte sobre procedimientos legales en Colombia, explicarte tus derechos y deberes, y ofrecerte información clave para entender tu situación legal. Aunque no soy abogado, puedo guiarte sobre los primeros pasos a seguir.",
-      "Lo primero es mantener la calma. En caso de recibir una demanda, te recomiendo leer detalladamente el contenido y buscar un abogado que pueda representarte. También puedes solicitar una conciliación antes de que el proceso avance.",
-      "Para presentar una tutela, debes escribir un documento explicando cómo se están vulnerando tus derechos fundamentales, y presentarlo ante un juez en tu ciudad. La tutela es una herramienta rápida y efectiva en Colombia.",
-      "Los derechos fundamentales son aquellos que se consideran esenciales para la dignidad y el desarrollo de cada persona, como el derecho a la vida, a la igualdad y a la libertad. En Colombia están protegidos por la Constitución.",
-      "Para divorciarte en Colombia, puedes iniciar el proceso por mutuo acuerdo o por causales específicas. Si ambos están de acuerdo, es más rápido y sencillo. De lo contrario, será necesario presentar una demanda ante el juez o un notario.",
-      "Para demandar a alguien por incumplimiento de contrato, debes reunir todas las pruebas del incumplimiento (documentos, conversaciones, etc.) y presentar una demanda ante un juez civil. Si el incumplimiento es claro, podrías obtener una compensación.",
-      "Si te acusan de un delito, lo más importante es buscar un abogado lo antes posible. Él te guiará a lo largo del proceso y se asegurará de que se respeten tus derechos. Además, tendrás derecho a presentar pruebas en tu defensa.",
-      "El recurso de apelación se interpone cuando no estás de acuerdo con una decisión judicial. Debes presentarlo ante el mismo juez que emitió la sentencia, explicando los motivos por los que consideras que la decisión fue incorrecta."
-    ]
+      "El derecho es el conjunto de normas y principios que regulan la convivencia social. En otras palabras, es el sistema que nos ayuda a resolver conflictos y a vivir en armonía, como si fuera el reglamento de un juego, pero para la vida."
+        ]
   },
-  
+  {
+    "questions": [
+      "que pasos debo seguir para iniciar un divorcio?",
+     "¿Qué pasos debo seguir para iniciar un divorcio?", 
+"¿Qué pasos debo seguir para iniciar un divorcio?",
+    "¿Cuáles son los documentos necesarios para el divorcio?",
+    "¿Debo contratar un abogado para el divorcio?",
+    "¿Cuánto tiempo tarda en promedio un divorcio?",
+    "¿Qué pasa con la custodia de los hijos en un divorcio?",
+    "¿Cómo se dividen los bienes en un divorcio?",
+    "¿Qué debo hacer si mi cónyuge no está de acuerdo con el divorcio?",
+    "¿Cómo se determina la pensión alimentaria?",
+    "¿Qué sucede si hay deudas compartidas?",
+    "¿Puedo solicitar una mediación para resolver conflictos?",
+    "¿Qué tipo de divorcio es mejor para mí: de mutuo acuerdo o contencioso?",
+    "¿Cómo afecta un divorcio a mis impuestos?",
+    "¿Qué debo hacer si tengo miedo de mi cónyuge?",
+    "¿Cómo puedo proteger mis activos antes del divorcio?",
+    "¿Es necesario presentar una demanda para el divorcio?",
+    "¿Qué ocurre con la vivienda familiar en el divorcio?",
+    "¿Cómo se manejan las visitas con los hijos tras el divorcio?",
+    "¿Qué es la separación legal y cómo se diferencia del divorcio?",
+    "¿Puedo cambiar mi nombre después del divorcio?",
+    "¿Qué derechos tengo sobre la pensión de mi cónyuge?",
+    "¿Cómo afecta el divorcio a mi seguro médico?",
+    "¿Qué debo hacer si mi cónyuge me está ocultando bienes?",
+    "¿Es posible modificar el acuerdo de divorcio más adelante?",
+    "¿Cómo me preparo emocionalmente para un divorcio?",
+    "¿Qué recursos están disponibles para apoyar a los hijos durante el divorcio?",
+    "¿Qué sucede con las cuentas bancarias compartidas?",
+    "¿Cómo se determina la custodia compartida?",
+    "¿Puedo pedirle al juez que me dé la custodia exclusiva?",
+    "¿Qué debo hacer si necesito ayuda financiera durante el proceso?",
+    "¿Es necesario asistir a la corte para el divorcio?",
+    "¿Cómo afecta un divorcio a mi situación de vivienda?",
+    "¿Qué consideraciones debo tener en cuenta si soy un padre no custodio?",
+    "¿Cómo manejo las discusiones sobre la educación de los hijos post-divorcio?",
+    "¿Cuándo es el mejor momento para hablar con un abogado?",
+    "¿Qué debo hacer si hay violencia doméstica involucrada?",
+    "¿Cómo puedo asegurarme de que mis derechos estén protegidos?",
+    "¿Qué hacer si no tengo los recursos económicos para un abogado?",
+    "¿Qué pasa si no puedo encontrar a mi cónyuge para notificarle del divorcio?",
+    "¿Qué tipos de acuerdos se pueden establecer en un divorcio?",
+    "¿Cómo se resuelven las disputas sobre la custodia?",
+    "¿Qué hacer si hay una discrepancia sobre los términos del divorcio?",
+    "¿Qué debo considerar al elegir un abogado de divorcio?",
+    "¿Cuáles son las consecuencias de un divorcio no resuelto?",
+    "¿Cómo afecta un divorcio a la relación con mis amigos y familiares?",
+    "¿Qué recursos de apoyo existen para personas que atraviesan un divorcio?",
+    "¿Qué hacer si uno de los cónyuges quiere una separación, pero el otro no?",
+    "¿Cuándo debo hablar con mis hijos sobre el divorcio?",
+    "¿Es posible un divorcio amistoso?",
+    "¿Qué pasa con las mascotas durante el divorcio?",
+    "¿Cómo puedo manejar el estrés emocional durante el proceso de divorcio?",
+    "¿Qué debo hacer si mi cónyuge no está pagando la pensión alimentaria?",
+    "¿Cuáles son mis derechos si tengo hijos menores de edad?",
+    "¿Qué recursos legales tengo si el divorcio se complica?",
+    "¿Cómo puedo planificar mi vida después del divorcio?",
+    "¿Qué sucede si tengo bienes en otro país?"
+      ],
+    "answers": [
+"Debes primero consultar con un abogado especializado en derecho familiar. Luego, reunir la documentación necesaria, presentar una petición de divorcio en el tribunal correspondiente y notificar a tu cónyuge.",
+    "Generalmente necesitarás tu certificado de matrimonio, prueba de residencia, documentos financieros (como declaraciones de impuestos y recibos de salario), y cualquier otra documentación que respalde tus peticiones sobre custodia o división de bienes.",
+    "Aunque no es obligatorio, es altamente recomendable, especialmente si hay hijos o bienes en común, o si la situación es complicada.",
+    "El tiempo puede variar significativamente, pero un divorcio de mutuo acuerdo puede tomar entre tres y seis meses, mientras que un divorcio contencioso puede tardar un año o más.",
+    "La custodia puede ser compartida o exclusiva, dependiendo de lo que decidan los padres y lo que considere el juez que es mejor para el bienestar de los niños.",
+    "La división de bienes puede ser equitativa o proporcional, dependiendo de las leyes del estado y si se trata de bienes adquiridos durante el matrimonio o antes.",
+    "Puedes intentar la mediación o buscar asesoría legal. Si la mediación no funciona, deberás seguir adelante con el proceso judicial.",
+    "La pensión alimentaria se determina considerando factores como los ingresos de ambos cónyuges, la duración del matrimonio y las necesidades de los hijos.",
+    "Las deudas acumuladas durante el matrimonio generalmente se dividen equitativamente, pero esto puede variar según la legislación local.",
+    "Sí, la mediación es una opción viable y a menudo se recomienda para resolver desacuerdos de manera más amigable.",
+    "Si ambos cónyuges están de acuerdo en la mayoría de los términos, el divorcio de mutuo acuerdo es más rápido y menos costoso. Si hay desacuerdos significativos, un divorcio contencioso podría ser necesario.",
+    "El divorcio puede afectar tu situación fiscal, especialmente en cuanto a la declaración de impuestos, deducciones y beneficios fiscales relacionados con hijos o pensiones.",
+    "Si hay miedo por violencia doméstica, es crucial buscar ayuda de profesionales y, si es necesario, solicitar una orden de protección.",
+    "Es recomendable no hacer movimientos financieros drásticos, pero puedes consultar con un abogado sobre la creación de un acuerdo prenupcial o postnupcial si es viable.",
+    "Sí, para iniciar el proceso legal de divorcio, es necesario presentar una demanda en el tribunal correspondiente.",
+    "La vivienda puede ser vendida, uno de los cónyuges puede comprar la parte del otro o puede acordarse una custodia compartida si hay hijos.",
+    "Las visitas se establecen en un acuerdo de custodia, que puede incluir horarios específicos y condiciones para las visitas.",
+    "La separación legal permite a los cónyuges vivir separados sin disolver el matrimonio, manteniendo ciertos derechos legales, mientras que el divorcio finaliza el matrimonio.",
+    "Sí, puedes solicitar un cambio de nombre durante el proceso de divorcio o después de que se finalice.",
+    "Dependiendo de la duración del matrimonio y las leyes estatales, podrías tener derecho a una parte de la pensión de tu cónyuge.",
+    "Tu cobertura de seguro puede cambiar; es importante revisar las políticas de tu proveedor y considerar la cobertura individual.",
+    "Debes consultar a un abogado, quien puede ayudarte a investigar y posiblemente presentar una denuncia en el tribunal.",
+    "Sí, es posible solicitar una modificación del acuerdo si hay cambios significativos en las circunstancias.",
+    "Considera buscar apoyo psicológico o grupos de apoyo, así como hablar con amigos y familiares.",
+    "Hay terapia, grupos de apoyo y recursos educativos que pueden ayudar a los niños a manejar la situación.",
+    "Las cuentas se suelen dividir o uno de los cónyuges puede quedar a cargo de ellas, según lo acordado.",
+    "Se considera el mejor interés de los hijos, la capacidad de cada padre para cuidarlos y otros factores relevantes.",
+    "Sí, pero deberás demostrar que es en el mejor interés del niño.",
+    "Puedes buscar asistencia gubernamental, apoyo de familiares o considerar una pensión alimentaria temporal.",
+    "Sí, en la mayoría de los casos es necesario asistir a audiencias para resolver asuntos relacionados con el divorcio.",
+    "Puede que debas mudarte o encontrar un nuevo lugar si la vivienda familiar es ocupada por tu cónyuge.",
+    "Debes asegurarte de tener un plan de visitas claro y participar activamente en la vida de tus hijos.",
+    "Es importante establecer una comunicación abierta y buscar un acuerdo que beneficie a los niños.",
+    "Lo ideal es hacerlo antes de tomar decisiones importantes o iniciar el proceso de divorcio.",
+    "Busca ayuda inmediatamente y considera obtener una orden de protección.",
+    "Mantén una comunicación clara con tu abogado y asegúrate de comprender tus derechos y opciones.",
+    "Puedes buscar servicios legales gratuitos o de bajo costo en tu área, o consultar con organizaciones que ofrecen ayuda.",
+    "Es posible solicitar una notificación por publicación en algunos casos, consultando con un abogado.",
+    "Puedes establecer acuerdos sobre custodia, división de bienes, pensión alimentaria y visitas.",
+    "Pueden resolverse mediante mediación, negociación entre abogados o, si es necesario, a través de un juicio.",
+    "Intenta resolverlo mediante negociación o mediación; si no es posible, podría ser necesario acudir a la corte.",
+    "Busca referencias, experiencia en casos similares y compatibilidad personal.",
+    "Puede llevar a conflictos continuos, problemas financieros y estrés emocional.",
+    "Las relaciones pueden cambiar, y algunas personas pueden sentirse incómodas o tomar partido.",
+    "Hay grupos de apoyo, terapeutas, y recursos en línea que pueden ser útiles.",
+    "Es importante dialogar sobre las razones y buscar mediación si es necesario.",
+    "Es recomendable hablar con ellos tan pronto como se tome la decisión, de manera apropiada a su edad.",
+    "Sí, muchos divorcios se pueden manejar de manera amistosa si ambas partes están dispuestas a cooperar.",
+    "La custodia de las mascotas se puede discutir y acordar como parte del proceso de divorcio."
+
+        ]
+  },
+  {
+    "questions": [
+      "cm ne pudes auidar?", 
+      "cm ne pudes audar?", 
+"cmo me puedes ayudar?",     
+"como me puedes ayudar?",
+"ayudaaa",
+"aida",
+"ayuda",
+"Ayuda",
+"¿Cómo me puedes ayudar?"
+      ],
+    "answers": [
+      " Te puedo asesorar juridicamente con casos no cmplejos como disputas contractuales,\n casos de negligencia, daños y perjuicios, reclamos de seguros, divorcios y fraudes,\n hasta la custodia de los hijos, manutención de menores, órdenes de restricción, despidos\n injustificados, discriminación, disputas comerciales, entre muchos casos que requieren un asesoramiento legal"
+        ]
+  },
+
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
+  {
+    "questions": [
+
+      ],
+    "answers": [
+      
+        ]
+  },
   {
     "questions": [
       "que ago si me acusan de robo?",
@@ -853,6 +2533,12 @@
 
 {
   "questions": [
+    "Adopcion",
+    "Adocion",
+    "Adoxion",
+    "Adosion",
+    "Adopcion",
+    "adopción",
     "Adopción",
     "¿Cuáles son los requisitos para adoptar en Colombia?",
     "que se necesita para adoptar en colombia?",
@@ -1073,7 +2759,131 @@
     "Las organizaciones que ayudan son el ICBF, la policia y algunas ONGs."
   ]
 },
+{
+    "questions": [
+      "que son los derechos fundamentales en la constitucion colombiana?"
+    ],
+    "answers": [
+      "Los derechos fundamentales en la constitucion colombiana incluyen la vida, la igualdad, la libertad y la dignidad humana. Estos derechos están garantizados por la Constitución y no pueden ser violados."
+    ]
+  },
+    {
+        "questions": [
+          "que son los derechos fundamentales en la constitucion colombiana?"
+        ],
+        "answers": [
+          "Los derechos fundamentales en la constitucion colombiana incluyen la vida, la igualdad, la libertad y la dignidad humana. Estos derechos están garantizados por la Constitución y no pueden ser violados."
+        ]
+      },
 
+      {
+  "questions": [
+    "¿Qué son los derechos fundamentales en la constitucion colombiana?"
+  ],
+  "answers": [
+    "Los derechos fundamentales en la constitucion colombiana incluyen la vida, la igualdad, la libertad y la dignidad humana. Estos derechos están garantizados por la Constitución y no pueden ser violados."
+  ]
+},
+{
+    "questions": [
+      "que hago si vulneran mis derechos fundamentales?"
+    ],
+    "answers": [
+      "Si vulneran tus derechos fundamentales, puedes interponer una accion de tutela, que es un mecanismo rapido para proteger esos derechos."
+    ]
+  },
+  {
+    "questions": [
+      "como puedo interponer una accion de tutela?"
+    ],
+    "answers": [
+      "Para interponer una accion de tutela, debes presentar un escrito ante un juez explicando como se vulneraron tus derechos. El juez tiene que dar una respuesta en un plazo maximo de 10 dias."
+    ]
+  },
+  {
+    "questions": [
+      "que es una tutela y para que sirve en colombia?"
+    ],
+    "answers": [
+      "La tutela es un recurso legal que sirve para proteger derechos fundamentales cuando estos han sido vulnerados por una accion u omision de una autoridad o particular en Colombia."
+    ]
+  },
+  
+  {
+    "questions": [
+      "cuales son mis derechos como ciudadano colombiano?"
+    ],
+    "answers": [
+      "Como ciudadano colombiano, tienes derechos fundamentales como la libertad de expresion, el derecho a la igualdad, el derecho a la vida y la proteccion de tu intimidad."
+    ]
+  },
+  {
+    "questions": [
+      "que debo hacer si una ley viola mis derechos constitucionales?"
+    ],
+    "answers": [
+      "Si crees que una ley viola tus derechos constitucionales, puedes presentar una demanda ante la Corte Constitucional para que se revise la legalidad de la ley."
+    ]
+  },
+  
+  {
+    "questions": [
+      "como funciona la corte constitucional en colombia?"
+    ],
+    "answers": [
+      "La Corte Constitucional en Colombia se encarga de proteger y garantizar el cumplimiento de la Constitución. Su funcion principal es revisar la constitucionalidad de leyes y sentencias judiciales."
+    ]
+  },
+
+  {
+  "questions": [
+    "como puedo defender mis derechos ante una autoridad?"
+  ],
+  "answers": [
+    "Para defender tus derechos ante una autoridad, puedes interponer recursos legales como la tutela o acudir a un defensor del pueblo para que te oriente."
+  ]
+},
+
+{
+    "questions": [
+      "que es el derecho a la igualdad en la constitucion colombiana?"
+    ],
+    "answers": [
+      "El derecho a la igualdad significa que todos los ciudadanos colombianos tienen los mismos derechos, sin distincion de raza, genero, religion o posicion social."
+    ]
+  },
+  {
+    "questions": [
+      "como puedo pedir proteccion por violacion de mis derechos en colombia?"
+    ],
+    "answers": [
+      "Puedes pedir proteccion mediante una accion de tutela si tus derechos son vulnerados por el Estado o por particulares. Tambien puedes acudir a la Defensoria del Pueblo."
+    ]
+  },
+  {
+    "questions": [
+      "como puedo pedir proteccion por violacion de mis derechos en colombia?"
+    ],
+    "answers": [
+      "Puedes pedir proteccion mediante una accion de tutela si tus derechos son vulnerados por el Estado o por particulares. Tambien puedes acudir a la Defensoria del Pueblo."
+    ]
+  },
+  {
+    "questions": [
+      "¿Cuál es la capital de Colombia?",
+      "¿Quién es el presidente de Colombia?",
+      "¿Cuántos departamentos tiene Colombia?",
+      "¿Cómo se llama la moneda de Colombia?",
+      "¿Cuál es la lengua oficial de Colombia?"
+    ],
+    "answers": [
+      "La capital de Colombia es Bogotá.",
+      "El presidente actual de Colombia es Gustavo Petro.",
+      "Colombia tiene 32 departamentos.",
+      "La moneda de Colombia es el peso colombiano.",
+      "La lengua oficial de Colombia es el español."
+    ]
+  },
 
   {
     "questions": [
